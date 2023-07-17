@@ -16,4 +16,4 @@ Tutorial by @antonioerdeljac
 - `npm install`
 - `npm dev`
 
-_continue from 1:13:00_
+_continue from 1:36:00_
