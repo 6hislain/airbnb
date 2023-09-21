@@ -16,4 +16,10 @@ Tutorial by @antonioerdeljac
 - `npm install`
 - `npm dev`
 
+
+### Docker
+
+- docker build -t airbnb .
+- docker run -d -p 3000:3000 airbnb
+
 _continue from 2:18:00_
